@@ -1,1 +1,0 @@
-Home page of Nick Sarlo (https://github.com/sicknarlo)
